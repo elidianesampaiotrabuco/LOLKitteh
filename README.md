@@ -1,4 +1,4 @@
-## LOLKitteh - Javascript based LOLCat Translator, inspired from PsExtra
+## LOLKitteh - Javascript based LOLCat Translator, inspired from PsXTRA
 ---
   
 #### Usage:
