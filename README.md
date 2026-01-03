@@ -19,8 +19,8 @@ Also check out the `bookmarklet.js` script, use it to LOLTranslate entire webpag
 
 ---
 
-`Copyright (C) 2011 by Derek Anderson / Media Upstream`
-`2023-2025 by ASTerisk Games`
+`Copyright (C) 2011-2026 by Derek Anderson / Media Upstream`
+`2023-2026 by MediaStickyVideoEditor640`
 
 	MIT LICENSE
 
